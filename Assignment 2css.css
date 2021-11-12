@@ -1,9 +1,10 @@
 body{
 	background-image:url("https://i0.wp.com/beneaththetangles.com/wp-content/uploads/2020/04/Yukino.jpg?fit=3840%2C2160&ssl=1");
-	background-size: 1600px 915px;
+	background-size: 130% 258.5%;
 	font-family: 'Irish Grover', cursive;
 	background-repeat: no-repeat;
 }
+
 #yellow{
 	color: #FFC54D;
 }
@@ -14,4 +15,15 @@ body{
 
 #red{
 	color: #FF8C4E;
+}
+
+#green{
+	color: #B8E600;
+
+}
+
+#red2{
+	color: #F70C1C;
+	background-color:#FFFF00;
+	width:15%;
 }
